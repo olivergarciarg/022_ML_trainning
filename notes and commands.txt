@@ -1,0 +1,13 @@
+- create environment
+conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter
+- activate environment
+conda activate ./env
+conda deactivate
+conda install jupyter
+jupyter notebook
+- close jupyter note book
+Ctrl C
+- share environment
+conda env export --prefix /Users/daniel/Desktop/project_1/env > environment.yml
+- create env from yaml
+conda env create --file environment.yml --name env_from_file
