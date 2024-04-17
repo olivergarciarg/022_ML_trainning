@@ -11,8 +11,3 @@ Ctrl C
 conda env export --prefix /Users/daniel/Desktop/project_1/env > environment.yml
 - create env from yaml
 conda env create --file environment.yml --name env_from_file
-
-
-
-
-item_number CEQ47631 has imcomplete data in item_number_mapping_brd (incomplete data from IWM) CEQ47631
