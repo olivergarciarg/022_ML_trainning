@@ -16,6 +16,28 @@ env
 # Misc (playground/large data file)
 data/bluebook_for_bulldozers/*
 data/bluebook-for-bulldozers/
+lot/
+lot.ipynb
 *__MACOSX*
 notebook-playground.ipynb
+"notes and commands".txt
+notes and commands.txt
+bulldozer-price-prediction/data/bluebook-for-bulldozers/Data Dictionary.xlsx
+bulldozer-price-prediction/data/bluebook-for-bulldozers/Machine_Appendix.csv
+bulldozer-price-prediction/data/bluebook-for-bulldozers/median_benchmark.csv
+bulldozer-price-prediction/data/bluebook-for-bulldozers/random_forest_benchmark_test.csv
+bulldozer-price-prediction/data/bluebook-for-bulldozers/Test.csv
+bulldozer-price-prediction/data/bluebook-for-bulldozers/test_predictions.csv
+bulldozer-price-prediction/data/bluebook-for-bulldozers/Train.7z
+bulldozer-price-prediction/data/bluebook-for-bulldozers/Train.csv
+bulldozer-price-prediction/data/bluebook-for-bulldozers/Train.zip
+bulldozer-price-prediction/data/bluebook-for-bulldozers/train_tmp.csv
+bulldozer-price-prediction/data/bluebook-for-bulldozers/TrainAndValid.7z
+bulldozer-price-prediction/data/bluebook-for-bulldozers/TrainAndValid.csv
+bulldozer-price-prediction/data/bluebook-for-bulldozers/TrainAndValid.zip
+bulldozer-price-prediction/data/bluebook-for-bulldozers/Valid.7z
+bulldozer-price-prediction/data/bluebook-for-bulldozers/Valid.csv
+bulldozer-price-prediction/data/bluebook-for-bulldozers/Valid.zip
+bulldozer-price-prediction/data/bluebook-for-bulldozers/ValidSolution.csv
+bulldozer-price-prediction/end-to-end-bulldozer-price-regression.ipynb
 notes and commands.txt

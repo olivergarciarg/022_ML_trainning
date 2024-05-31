@@ -1,7 +1,9 @@
 - create environment
 conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter
+python -m venv /path/to/new/virtual/environment
 - activate environment
 conda activate ./env
+<environment_name>\Scripts\activate
 conda deactivate
 conda install jupyter
 jupyter notebook
@@ -11,3 +13,7 @@ Ctrl C
 conda env export --prefix /Users/daniel/Desktop/project_1/env > environment.yml
 - create env from yaml
 conda env create --file environment.yml --name env_from_file
+conda env create --prefix ./env --file environment.yml
+
+
+RocCurveDisplay
