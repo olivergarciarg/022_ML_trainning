@@ -16,4 +16,7 @@ conda env create --file environment.yml --name env_from_file
 conda env create --prefix ./env --file environment.yml
 
 
-RocCurveDisplay
+python -m venv ./venv
+venv\scripts\activate
+deactivate
+conda config --set ssl_verify false
