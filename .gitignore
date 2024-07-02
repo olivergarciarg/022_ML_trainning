@@ -16,6 +16,7 @@ env
 # Misc (playground/large data file)
 data/bluebook_for_bulldozers/*
 data/bluebook-for-bulldozers/
+deep learning/
 lot/
 lot.ipynb
 *__MACOSX*
